@@ -1,5 +1,5 @@
 # cool_php_common
 
-This is my person php common util library. Public project in GitHub. 
+This is my personal php common util library. Public project in GitHub. 
 
 
